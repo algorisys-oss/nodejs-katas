@@ -33,11 +33,32 @@
 - [x] 004 — IO Callbacks
 - [x] 005 — Worker Threads (Intro)
 
-## Katas — Phases 3–16
+## Katas — Phase 3: File System & OS Interaction
 
-- [ ] Phase 3 — File System & OS Interaction
-- [ ] Phase 4 — Buffers, Binary Data & Encoding
-- [ ] Phase 5 — Streams & Backpressure
+- [x] 001 — Reading and Writing Files
+- [x] 002 — Paths and Directories
+- [x] 003 — OS and System Information
+- [x] 004 — Process and Environment Variables
+- [x] 005 — Process Lifecycle and Signals
+
+## Katas — Phase 4: Buffers, Binary Data & Encoding
+
+- [x] 001 — What Is a Buffer?
+- [x] 002 — Encoding and Decoding
+- [x] 003 — Buffer Operations
+- [x] 004 — Typed Arrays and DataView
+- [x] 005 — Parsing Binary Protocols
+
+## Katas — Phase 5: Streams & Backpressure
+
+- [x] 001 — Readable Streams
+- [x] 002 — Writable Streams
+- [x] 003 — Transform Streams
+- [x] 004 — Piping and Pipeline
+- [x] 005 — Backpressure
+
+## Katas — Phases 6–16
+
 - [ ] Phase 6 — Networking Fundamentals
 - [ ] Phase 7 — HTTP from First Principles
 - [ ] Phase 7A — WebSockets & Real-Time Systems
