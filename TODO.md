@@ -137,12 +137,37 @@
 - [x] 004 — Crash Handling and Recovery
 - [x] 005 — Graceful Restart and Zero-Downtime Deploys
 
-## Katas — Phases 13–16
+## Katas — Phase 13: Performance & Scaling
 
-- [ ] Phase 13 — Performance & Scaling
-- [ ] Phase 14 — Background Jobs & Async Systems
-- [ ] Phase 15 — Frameworks (After Fundamentals)
-- [ ] Phase 16 — Advanced Architectures
+- [x] 001 — Profiling Node.js Applications
+- [x] 002 — Memory Management and Leak Detection
+- [x] 003 — Event Loop Optimization
+- [x] 004 — Load Testing
+- [x] 005 — Horizontal Scaling
+
+## Katas — Phase 14: Background Jobs & Async Systems
+
+- [x] 001 — Background Workers
+- [x] 002 — Job Queues
+- [x] 003 — Retry Strategies
+- [x] 004 — Idempotency
+- [x] 005 — Failure Modes
+
+## Katas — Phase 15: Frameworks (After Fundamentals)
+
+- [x] 001 — Why Frameworks Exist
+- [x] 002 — Routing and Parameters
+- [x] 003 — Middleware and Hooks
+- [x] 004 — Validation and Serialization
+- [x] 005 — Plugins and Encapsulation
+
+## Katas — Phase 16: Advanced Architectures
+
+- [x] 001 — REST + Real-Time Hybrid
+- [x] 002 — Streaming APIs
+- [x] 003 — API Gateway Patterns
+- [x] 004 — Monolith vs Microservices
+- [x] 005 — Configuration and Secrets Management
 
 ## Frontend
 
