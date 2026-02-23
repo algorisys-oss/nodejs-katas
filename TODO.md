@@ -57,14 +57,56 @@
 - [x] 004 — Piping and Pipeline
 - [x] 005 — Backpressure
 
-## Katas — Phases 6–16
+## Katas — Phase 6: Networking Fundamentals
 
-- [ ] Phase 6 — Networking Fundamentals
-- [ ] Phase 7 — HTTP from First Principles
-- [ ] Phase 7A — WebSockets & Real-Time Systems
-- [ ] Phase 8 — Building Web Servers & APIs
-- [ ] Phase 8A — File Uploads & Multipart Streaming
-- [ ] Phase 9 — PostgreSQL Integration
+- [x] 001 — TCP Basics with the net Module
+- [x] 002 — UDP Overview
+- [x] 003 — Socket Lifecycle
+- [x] 004 — Timeouts and Retries
+- [x] 005 — Length-Prefix Framing
+
+## Katas — Phase 7: HTTP from First Principles
+
+- [x] 001 — The HTTP Protocol
+- [x] 002 — Headers and Content Types
+- [x] 003 — Request/Response Lifecycle
+- [x] 004 — HTTP Keep-Alive
+- [x] 005 — Content Encoding and Range Requests
+
+## Katas — Phase 7A: WebSockets & Real-Time Systems
+
+- [x] 001 — HTTP to WebSocket Upgrade
+- [x] 002 — WebSocket Frame Protocol
+- [x] 003 — Building a WebSocket Server
+- [x] 004 — Real-Time State Management
+- [x] 005 — Scaling WebSockets
+
+## Katas — Phase 8: Building Web Servers & APIs
+
+- [x] 001 — URL Routing
+- [x] 002 — Middleware Patterns
+- [x] 003 — JSON APIs and Validation
+- [x] 004 — Error Handling in APIs
+- [x] 005 — Graceful Shutdown
+
+## Katas — Phase 8A: File Uploads & Multipart Streaming
+
+- [x] 001 — Understanding multipart/form-data
+- [x] 002 — Streaming Uploads
+- [x] 003 — File Size Limits and Validation
+- [x] 004 — Upload Progress Tracking
+- [x] 005 — Temporary Storage and Cleanup
+
+## Katas — Phase 9: PostgreSQL Integration
+
+- [x] 001 — PostgreSQL Architecture Overview
+- [x] 002 — Connection Pooling
+- [x] 003 — Parameterized Queries and SQL Injection
+- [x] 004 — Transactions
+- [x] 005 — Database Error Handling
+
+## Katas — Phases 9A–16
+
 - [ ] Phase 9A — Advanced PostgreSQL in Node.js
 - [ ] Phase 10 — Cryptography & Security
 - [ ] Phase 11 — Child Processes & Worker Threads
