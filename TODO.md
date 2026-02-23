@@ -105,12 +105,40 @@
 - [x] 004 — Transactions
 - [x] 005 — Database Error Handling
 
-## Katas — Phases 9A–16
+## Katas — Phase 9A: Advanced PostgreSQL in Node.js
 
-- [ ] Phase 9A — Advanced PostgreSQL in Node.js
-- [ ] Phase 10 — Cryptography & Security
-- [ ] Phase 11 — Child Processes & Worker Threads
-- [ ] Phase 12 — Observability & Reliability
+- [x] 001 — Streaming Query Results
+- [x] 002 — Bulk Inserts and COPY
+- [x] 003 — Pagination Strategies
+- [x] 004 — JSONB in PostgreSQL
+- [x] 005 — Query Cancellation and Timeouts
+
+## Katas — Phase 10: Cryptography & Security
+
+- [x] 001 — Hashing with the crypto Module
+- [x] 002 — Password Storage with scrypt
+- [x] 003 — Symmetric Encryption with AES
+- [x] 004 — Tokens and Signatures (HMAC and JWT)
+- [x] 005 — Secure Random Generation
+
+## Katas — Phase 11: Child Processes & Worker Threads
+
+- [x] 001 — Child Process Basics
+- [x] 002 — spawn and Streaming I/O
+- [x] 003 — fork and Inter-Process Communication
+- [x] 004 — Worker Threads
+- [x] 005 — CPU Offloading Patterns
+
+## Katas — Phase 12: Observability & Reliability
+
+- [x] 001 — Structured Logging
+- [x] 002 — Health Checks and Readiness Probes
+- [x] 003 — Application Metrics
+- [x] 004 — Crash Handling and Recovery
+- [x] 005 — Graceful Restart and Zero-Downtime Deploys
+
+## Katas — Phases 13–16
+
 - [ ] Phase 13 — Performance & Scaling
 - [ ] Phase 14 — Background Jobs & Async Systems
 - [ ] Phase 15 — Frameworks (After Fundamentals)
